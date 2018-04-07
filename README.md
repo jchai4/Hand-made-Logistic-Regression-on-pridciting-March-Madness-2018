@@ -1,1 +1,2 @@
-# Logistic-Regression-on-March-Madness-2018
+# Hand-made-Logistic-Regression-on-pridciting-March-Madness-2018
+#Logistic regression and deep neural network
